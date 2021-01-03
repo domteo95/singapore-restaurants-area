@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 <iframe src="/images/restaurants-subzone.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -17,7 +17,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
     seamless="seamless"
     frameborder="0">
 </iframe>
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
