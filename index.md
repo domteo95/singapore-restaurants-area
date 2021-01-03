@@ -8,18 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+CHANGE
 
-<div>
-    <iframe src="/images/restaurants-subzone.html"
-        sandbox="allow-same-origin allow-scripts"
-        width="100%"
-        height="100%"
-        scrolling="no"
-        seamless="seamless"
-        frameborder="0">
-    </iframe>
-</div>
-
+{% include restaurants-subzone.html}
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
