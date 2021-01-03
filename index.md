@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 CHANGE
 
-{% include restaurants-subzone.html}
+{% include restaurants-subzone.html %}
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
