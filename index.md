@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 <div>
-    <iframe src="/images/restaurants-subzone.html"
+    <iframe src="/restaurants-subzone.html"
         sandbox="allow-same-origin allow-scripts"
         width="100%"
         height="100%"
@@ -20,8 +20,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
         frameborder="0">
     </iframe>
 </div>
-
-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
