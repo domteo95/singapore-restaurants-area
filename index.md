@@ -25,6 +25,7 @@ I then merge the restaurants (TripAdvisor+Yelp) dataset with the boundaries (Sub
 
 {% include restaurants-subzone2.html %}
 
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
