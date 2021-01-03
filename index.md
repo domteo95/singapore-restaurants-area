@@ -20,12 +20,22 @@ I then merge the restaurants (TripAdvisor+Yelp) dataset with the boundaries (Sub
 - Subzone Name
 - Planning Area Name
 
+The table below is ordered from the subzone with the highest average rating to the subzone with the lowest average rating. 
 {% include restaurants-subzone-table.html %}
 <br/><br/>
 
 ### Group by Subzone - Which Subzone has the 'best' restaurants?
 
+The interactive tables contains 2 different tabs. The first is a map of the different subzones where the different colors represent the difference in the average rating for the respective subzone. This allows users to better understand which areas in Singapore have better quality restaurants. 
+
+The other tab contains a map of the different areas of Singapore with the color spectrum representing the average number of reviews that each restaurant has. For me, this could be a decent proxy for allowing us to understand which area of Singapore have restaurants that are more popular. Logically, restaurants that have a higher number of reviews should be restaurants that are more popular. Furthermore, with a larger number of reviews, the average rating calculated should be more accurate as well as compared to restaurants with a 5 star rating but has only 1 review.
 
 {% include restaurants-subzone2.html %}
+<br/><br/>
+
+### Limitations
+
+One of the more obvious limitation lies in the type of data that I used. Singapore is famous for its local hawker culture whereas the data I used came from TripAdvisor and Yelp which tends towards more tourist spots. Hence, there could be an over-representation of tourist restaurants/eateries vs more local eateries. 
+
 
 
